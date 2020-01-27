@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "es2017"],
+    "module": "esnext",
+    "declaration": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "noEmit": false,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "preserveConstEnums": true,
+    "removeComments": false,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "strict": true,
+    "experimentalDecorators": true,
+    "target": "esnext",
+    "typeRoots": ["stories/types", "node_modules/@types"]
+  },
+  "include": ["src/**/*.ts", "src/**/*.pcss", "src/**/*.html"],
+  "exclude": ["node_modules"]
+}

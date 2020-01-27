@@ -1,0 +1,41 @@
+{
+  "name": "web-components-for-design-system-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekobato/web-components-for-design-system-examples.git"
+  },
+  "keywords": [],
+  "author": "nekobato <nekobato@gmail.com> (https://nekobato.net/)",
+  "license": "MIT",
+  "dependencies": {
+    "lit-element": "^2.2.1",
+    "typescript": "^3.7.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "@storybook/html": "^5.2.8",
+    "@storybook/theming": "^5.2.8",
+    "@webcomponents/webcomponentsjs": "^2.4.0",
+    "autoprefixer": "^9.7.3",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.4.1",
+    "cssnano": "^4.1.10",
+    "postcss-loader": "^3.0.0",
+    "postcss-nested": "^4.2.1",
+    "raw-loader": "^4.0.0",
+    "style-loader": "^1.1.2",
+    "ts-loader": "^6.2.1",
+    "webpack": "^4.41.5"
+  },
+  "bugs": {
+    "url": "https://github.com/nekobato/web-components-for-design-system-examples/issues"
+  },
+  "homepage": "https://github.com/nekobato/web-components-for-design-system-examples#readme"
+}
